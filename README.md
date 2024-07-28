@@ -111,6 +111,6 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgements
 The Flappy Bird game assets are used for educational purposes.
 Thanks to the authors of Stable Baselines3 and OpenAI Gym for providing great tools for reinforcement learning research.
