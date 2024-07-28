@@ -1,0 +1,6 @@
+/.venv
+/assets/audio
+/logs/dqn_flappybird_tensorboard
+/model/dqn_flappybird.zip
+/model/FlappyBird_DQN_Easy.zip
+__pycache__/
