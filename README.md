@@ -53,8 +53,8 @@ flappybird-game/
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/flappybird-game.git
-    cd flappybird-game
+    git clone https://github.com/unrealdhanush/flappybird-rl.git
+    cd flappybird-rl
     ```
 
 2. Set up a virtual environment:
@@ -64,12 +64,10 @@ flappybird-game/
     source .venv/bin/activate  # On Windows, use `.venv\Scripts\activate`
     ```
 
-3. Install the required packages:
+3. Install the required packages from the `requirements.txt` file:
 
-    ```bash
-    pip install --upgrade pip setuptools wheel
-    pip install stable_baselines3 opencv-python mss pydirectinput gym
-    pip install gym-retro --use-deprecated=legacy-resolver
+    ```bash 
+    pip install -r requirements.txt
     ```
 
 ## Training the Agent
