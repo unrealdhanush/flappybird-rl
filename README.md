@@ -1,6 +1,6 @@
 # Flappy Bird Reinforcement Learning Project
 
-This project uses reinforcement learning to train an agent to play Flappy Bird. The agent is trained using the Deep Q-Network (DQN) algorithm, implemented with the Stable Baselines3 library and the training environment is created using OpenAI Gym.
+This project uses reinforcement learning to train an agent to play Flappy Bird. The agent is trained using the Deep Q-Network (DQN) algorithm, implemented with the Stable Baselines3 library and the training environment is created using OpenAI Gym and Pygame.
 
 ## Project Structure
 
